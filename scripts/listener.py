@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import rospy
-import time
 import serial
 
 from sensor_msgs.msg import Joy
