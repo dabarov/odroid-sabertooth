@@ -1,5 +1,7 @@
 # Jaguar Odroid Sabertooth
 
+![Python 2.7](https://img.shields.io/badge/Python-2.7-blue)
+![ROS Kinetic](https://img.shields.io/badge/ROS-Kinetic-blue)
 
 
 https://github.com/user-attachments/assets/984dfde4-267b-4688-80d3-a479aa6b3c0f
